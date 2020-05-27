@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Pariwitara</string>
+
+    <string-array name="locationName">
+        <item>"YK_Bringharjo"</item>
+        <item>"YK_KratonJogjakarta"</item>
+        <item>"YK_Malioboro"</item>
+        <item>"YK_TamanSari"</item>
+        <item>"YK_TuguJogja"</item>
+    </string-array>
+
+    <string-array name="locationDescription">
+        <item>"Random Description"</item>
+        <item>"Random Description"</item>
+        <item>"Random Description"</item>
+        <item>"Random Description"</item>
+        <item>"Random Description"</item>
+    </string-array>
 </resources>
